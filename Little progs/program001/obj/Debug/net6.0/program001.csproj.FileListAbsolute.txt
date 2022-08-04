@@ -1,0 +1,15 @@
+D:\GeekBrains\С#\Little progs\program001\bin\Debug\net6.0\program001.exe
+D:\GeekBrains\С#\Little progs\program001\bin\Debug\net6.0\program001.deps.json
+D:\GeekBrains\С#\Little progs\program001\bin\Debug\net6.0\program001.runtimeconfig.json
+D:\GeekBrains\С#\Little progs\program001\bin\Debug\net6.0\program001.dll
+D:\GeekBrains\С#\Little progs\program001\bin\Debug\net6.0\program001.pdb
+D:\GeekBrains\С#\Little progs\program001\obj\Debug\net6.0\program001.csproj.AssemblyReference.cache
+D:\GeekBrains\С#\Little progs\program001\obj\Debug\net6.0\program001.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\С#\Little progs\program001\obj\Debug\net6.0\program001.AssemblyInfoInputs.cache
+D:\GeekBrains\С#\Little progs\program001\obj\Debug\net6.0\program001.AssemblyInfo.cs
+D:\GeekBrains\С#\Little progs\program001\obj\Debug\net6.0\program001.csproj.CoreCompileInputs.cache
+D:\GeekBrains\С#\Little progs\program001\obj\Debug\net6.0\program001.dll
+D:\GeekBrains\С#\Little progs\program001\obj\Debug\net6.0\refint\program001.dll
+D:\GeekBrains\С#\Little progs\program001\obj\Debug\net6.0\program001.pdb
+D:\GeekBrains\С#\Little progs\program001\obj\Debug\net6.0\program001.genruntimeconfig.cache
+D:\GeekBrains\С#\Little progs\program001\obj\Debug\net6.0\ref\program001.dll
