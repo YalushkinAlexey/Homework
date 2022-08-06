@@ -10,4 +10,9 @@ Console.WriteLine("введите первое число");
 int numberOne = int.Parse(Console.ReadLine());     // вводим 1е число
 Console.WriteLine("введите второе число");
 int numberSecond = int.Parse(Console.ReadLine());   // вводим 2е число
+if (numberOne == numberSecond)
+    {
+        Console.Write("число " + numberOne + " равно " + numberSecond); 
+        return;
+    }
 Console.Write("число " + (numberOne > numberSecond ? numberOne : numberSecond) + " больше числа " + (numberOne > numberSecond ? numberSecond : numberOne));  // выводим 
