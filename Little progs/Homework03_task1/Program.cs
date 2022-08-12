@@ -16,8 +16,9 @@ internal partial class Program
         Console.WriteLine("Введите слово ");
         string str = Convert.ToString(Console.ReadLine()).ToLower();
         string str2 = ReverseString(str).ToLower();
-        Console.WriteLine(str.Equals(str2) ?"Палиндром" : "Не палиндром");
+        Console.WriteLine(str.Equals(str2) ? "Палиндром" : "Не палиндром");
     }
+
     public static string ReverseString(string str)
     {
         char[] c = str.ToCharArray();
