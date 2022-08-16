@@ -6,4 +6,7 @@
 */
 
 string str = Console.ReadLine();
-Console.WriteLine(str.ToCharArray().Select(ch => (int)ch - 48).ToArray().Sum());
+sumOfNumbers(str);
+void sumOfNumbers(string str){
+    Console.WriteLine(str.ToCharArray().Select(ch => (int)ch - 48).ToArray().Sum());
+}
