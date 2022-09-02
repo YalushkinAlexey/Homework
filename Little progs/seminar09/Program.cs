@@ -3,6 +3,10 @@
 пример:
 1,2,3,4,5,6,7,8 => 2 4 6 8
 */
-string str = Console.ReadLine().split(',');
+string[] str = Console.ReadLine().Split(',');
 Console.WriteLine(str[0]);
-int[] array = new int [];
+for (int i = 0; i < str.Length; i ++ )
+{
+    if (да ){вывод}
+}
+
